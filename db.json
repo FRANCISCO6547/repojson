@@ -1,5 +1,6 @@
-[
-  {
+{
+  "pois": [
+    {
     "name": "Laguna Muri",
     "descriptio": "Hermosa laguna, de aguas transparentes, con motus cercanos de vegetación exhuberante.",
     "score": "4.5",
@@ -29,4 +30,5 @@
     "score": "3.0",
     "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/fd/06/6f/wigmore-s-waterfall.jpg?w=500&h=400&s=1"
   }
-]
+  ]
+}
