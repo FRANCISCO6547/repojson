@@ -5,6 +5,7 @@
       "description": "PHermosa laguna, de aguas transparentes, con motus cercanos de vegetación exhuberante.",
       "score": "4.5",
       "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/f9/c5/6f/great-times-on-muri-lagoon.jpg?w=500&h=-1&s=1",
+      "temperature": "27°C",
       "ubication": "-21.249353,-159.730520"
     },
     {
@@ -12,6 +13,7 @@
       "description": "PÁreas de naturaleza y vida silvestre, donde es posible realizar buceo y avistar peces",
       "score": "4.5",
       "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/03/2f/62/75/aroa-marine-reserve.jpg?w=500&h=-1&s=1",
+      "temperature": "28°C",
       "ubication": "-21.256912,-159.816640"
     },
     {
@@ -19,6 +21,7 @@
       "description": "PComprenda realmente la historia y el espíritu de las Islas Cook (Rarotonga) con nuestra espectacular exposición en el museo",
       "score": "4.5",
       "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/72/ee/85/on-the-main-raod-in-muri.jpg?w=500&h=-1&s=1",
+      "temperature": "27°C",
       "ubication": "-21.259257,-159.733532"
     },
     {
@@ -26,6 +29,7 @@
       "description": "PUna abundancia de plantas y flores tropicales con fuentes de agua y el canto de los pájaros.",
       "score": "4.5",
       "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/4b/e0/6d/a-small-clearing-area.jpg?w=500&h=-1&s=1",
+      "temperature": "27°C",
       "ubication": "-21.271682,-159.750177"
     },
     {
@@ -33,6 +37,7 @@
       "description": "PLa cascada de Wigmore (también conocida como Papua en la lengua maorí de las Islas Cook) es la única atracción de cascada que conocemos en todas las Islas Cook.",
       "score": "3.0",
       "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/fd/06/6f/wigmore-s-waterfall.jpg?w=500&h=400&s=1",
+      "temperature": "30°C",
       "ubication": "-21.253721,-159.788047"
     }
   ]
